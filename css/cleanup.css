@@ -26,6 +26,6 @@
 /*  display: none;*/
 /*}*/
 
-#wall .tag-1, body #wall div#tag-2, div#wall #tag-3.slick.wicked, #wall div.parent div#tag-4  {
+#wall .tag-1, body #wall div#tag-2, #wall div.parent div#tag-4 {
   display: none;
 }
